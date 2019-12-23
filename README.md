@@ -22,7 +22,7 @@ const client = new Discord.Client();
 const module = require('./plugins/codeblock_selection/index.js');
 module.inject(client);
 /*
-* Теперь плагин доступен в client.selection
+* Теперь плагин доступен в client.select
 * Нахождение плагина так же можно измен
 * ить если передать второй аргумент
 */
