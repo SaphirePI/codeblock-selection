@@ -1,0 +1,9 @@
+{
+  "name": "codeblock-selection",
+  "version": "1.0.0",
+  "description": "Listing module to discord.js bots",
+  "main": "index.js",
+  "repository": "https://github.com/thex49/codeblock-selection.git",
+  "author": "Nefelit",
+  "license": "MIT"
+}
